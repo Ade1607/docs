@@ -14,7 +14,7 @@ topics:
 
 ### About topics
 
-With topics, you can explore repositories in a particular subject area, find projects to contribute to, and discover new solutions to a specific problem. Topics appear on the main page of a repository. You can click a topic name to {% if currentVersion == "free-pro-team@latest" %}see related topics and a list of other repositories classified with that topic{% else %}search for other repositories with that topic{% endif %}.
+With topic  you can explore repositories in a particular subject area, find projects to contribute to, and discover new solutions to a specific problem. Topics appear on the main page of a repository. You can click a topic name to {% if currentVersion == "free-pro-team@latest" %}see related topics and a list of other repositories classified with that topic{% else %}search for other repositories with that topic{% endif %}.
 
 ![Main page of the test repository showing topics](/assets/images/help/repository/os-repo-with-topics.png)
 
